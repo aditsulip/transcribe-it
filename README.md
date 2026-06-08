@@ -2,7 +2,7 @@
 
 Simple web app for:
 - uploading meeting audio,
-- transcribing with Whisper API on `192.168.0.251:8091`,
+- transcribing with Whisper API on Local Model with CPU/GPU,
 - generating a professional MoM on a separate page,
 - exporting unified output (MoM + transcript) as `.md` or `.txt`,
 - keeping 7-day server-side history cache.
